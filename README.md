@@ -4,6 +4,10 @@
 
 ---
 
+![BacklinkManager Özellikler Sayfası](./backlink.png)
+
+---
+
 ## Platform Nedir?
 
 BacklinkManager, dijital pazarlama ajanslarının ve SEO profesyonellerinin müşteri sitelerindeki backlinkleri, uptime durumunu, SSL sertifikalarını, domain sürelerini, anahtar kelimeleri ve Core Web Vitals değerlerini **tek bir merkezi panel** üzerinden gerçek zamanlı izlemesini sağlayan bir SaaS platformudur.
@@ -36,6 +40,8 @@ BacklinkManager bu süreci tamamen otomatikleştirir:
 
 ## Temel Özellikler
 
+![Admin Dashboard](./admin.png)
+
 ### Backlink İzleme
 
 Gerçek bir tarayıcı motoruna dayanan tarama altyapısı, sitenin **statik HTML kaynağını** analiz eder:
@@ -46,6 +52,8 @@ Gerçek bir tarayıcı motoruna dayanan tarama altyapısı, sitenin **statik HTM
 - JS widget entegrasyonu — panelden kapatılan logo "bulunamadı" olarak işaretlenir
 - Çoklu snippet hedefi — bir site için birden fazla hedef HTML ayrı ayrı izlenir
 - Değişim tespiti — önceki tarama ile karşılaştırma, durum geçişlerinde bildirim
+
+![Site İzleme Merkezi](./siteizleme.png)
 
 ### Uptime İzleme
 
@@ -84,6 +92,8 @@ Gerçek bir tarayıcı motoruna dayanan tarama altyapısı, sitenin **statik HTM
 - Günlük kontrol
 
 ### Rakip Analizi
+
+![Rakip Analizi Merkezi](./rakipanalizi.png)
 
 - Rakip siteleri için backlink, uptime, keyword, SSL, domain takibi
 - Marka (Brand) bazlı gruplama
